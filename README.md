@@ -7,7 +7,7 @@
 
 ### Request
 
-GET http://localhost:9080/authentication/user
+GET [http://localhost:9080/authentication/user](http://localhost:9080/authentication/user)
 
 ### Response
 
@@ -18,7 +18,7 @@ When user is not logged:
     }
 ```
 
-When user is not logged:
+When user is logged:
 ```json
     {
        "user":"admin"
@@ -28,4 +28,4 @@ When user is not logged:
 
 ### Login page
 
-http://localhost:9080/adminCenter
+[http://localhost:9080/adminCenter](http://localhost:9080/adminCenter)
